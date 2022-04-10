@@ -330,7 +330,7 @@ a:visited,
 a:active,
 a:hover,
 a:link {
-  color: #2f80ed
+  color: #2f80ed;
 }
 
 a.footer__link:visited,
