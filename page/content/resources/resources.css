@@ -1,0 +1,6 @@
+.resources{
+    flex-direction: column;
+    display: flex;
+    padding-top: 100px;
+    align-items: center;
+  }
